@@ -544,7 +544,7 @@
     "circuit_id": 2,
     "iteration": 1,
     "decision_type": "fallback_initial",
-    "summary": "The initial LLM request failed; fallback parameters were used (JSONDecodeError).",
+    "summary": "The initial LLM request failed; fallback parameters were used (RateLimitError).",
     "parameter_reasoning": "Fallback parameters were generated from the circuit ID.",
     "direction_reasoning": "Fallback direction was selected from the two legal driving directions.",
     "previous_parameters": null,
