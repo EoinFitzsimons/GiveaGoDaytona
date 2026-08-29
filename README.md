@@ -1,9 +1,8 @@
-
-# Procedural Circuit AI Lab
+# Daytona 400
 
 ## Overview
 
-Procedural Circuit AI Lab is an AI-assisted racing circuit generator built with Python, Groq, Daytona, and PyQt6.
+Daytona 400 is an AI-assisted racing circuit generator built with Python, Groq, Daytona, and PyQt6.
 
 The system uses an AI agent to choose high-level circuit design parameters. A procedural geometry engine turns those parameters into a complete racing circuit. The circuit is then generated, validated, and scored inside a Daytona sandbox.
 
